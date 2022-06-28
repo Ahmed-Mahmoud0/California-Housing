@@ -15,8 +15,8 @@ The dataset in this directory is almost identical to the original with only a fe
 
 
 
-Reference: Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems.
+## Reference: Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems.
 
 Book by Geron Aurelien
 
-It's a worthy read you can check it out.
+It's worth reading you can check it out.
